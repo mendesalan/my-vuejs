@@ -1,6 +1,6 @@
 # my-vue
 
-> A Vue.js project
+> A simple vueJS project with vuex for training purpose.
 
 ## Build Setup
 
